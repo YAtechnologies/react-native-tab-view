@@ -29,7 +29,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/react-native-community/react-native-tab-view.git"
+    "url": "git+https://github.com/YAtechnologies/react-native-tab-view/tree/yassir.git"
   },
   "author": "Satyajit Sahoo <satyajit.happy@gmail.com> (https://github.com/satya164/)",
   "license": "MIT",
